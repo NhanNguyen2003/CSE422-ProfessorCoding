@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\views\\device\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\models\\devicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\models\\devicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\views\\device\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|d:\\cse_422\\lab2_devicemanagementsoftware\\lab2_devicemanagementsoftware\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C204EB54-6894-998E-0903-2CF7C8A1C82B}|Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware.csproj|solutionrelative:lab2_devicemanagementsoftware\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:51:42.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Data\\Data.cs",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Data\\Data.cs",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Data\\Data.cs",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Data\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:51:35.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Models\\Device.cs",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Models\\Device.cs",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Models\\Device.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:49:05.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:36:46.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:36:10.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Device\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Views\\Device\\Index.cshtml",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Device\\Index.cshtml",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Views\\Device\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:19:14.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:14:52.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Controllers\\DeviceController.cs",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:14:29.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:37:36.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:38:02.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:16:09.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeviceStatus.cs",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Models\\DeviceStatus.cs",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Models\\DeviceStatus.cs",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Models\\DeviceStatus.cs",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Models\\DeviceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:47:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:38:27.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:44:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:43:32.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:35:35.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Program.cs",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Program.cs",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:24:39.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Device\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab2_DeviceManagementSoftware\\Views\\Device\\Create.cshtml",
+              "ToolTip": "D:\\CSE_422\\Lab2_DeviceManagementSoftware\\Lab2_DeviceManagementSoftware\\Views\\Device\\Create.cshtml",
+              "RelativeToolTip": "Lab2_DeviceManagementSoftware\\Views\\Device\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-23T06:22:35.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

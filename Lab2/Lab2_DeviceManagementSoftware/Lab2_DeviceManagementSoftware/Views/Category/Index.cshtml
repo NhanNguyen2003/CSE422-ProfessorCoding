@@ -1,0 +1,20 @@
+﻿@model List<DeviceCategory>
+
+<h2>Device Categories</h2>
+
+<a href="/Category/Create">➕ Add Category</a>
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>ID</th>
+        <th>Category Name</th>
+    </tr>
+
+    @foreach (var c in Model)
+    {
+        <tr>
+            <td>@c.Id</td>
+            <td>@c.CategoryName</td>
+        </tr>
+    }
+</table>

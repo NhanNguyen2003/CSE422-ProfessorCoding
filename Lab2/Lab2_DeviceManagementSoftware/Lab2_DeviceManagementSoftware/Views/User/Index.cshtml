@@ -1,0 +1,22 @@
+﻿@model List<User>
+
+<h2>User Management</h2>
+
+<a href="/User/Create">➕ Add User</a>
+
+<table border="1" cellpadding="5">
+    <tr>
+        <th>Full Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+    </tr>
+
+    @foreach (var u in Model)
+    {
+        <tr>
+            <td>@u.FullName</td>
+            <td>@u.Email</td>
+            <td>@u.PhoneNumber</td>
+        </tr>
+    }
+</table>
