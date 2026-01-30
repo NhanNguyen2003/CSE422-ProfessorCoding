@@ -1,0 +1,23 @@
+﻿using Lab3LibraryManagementSystem.Models;
+
+namespace Lab3LibraryManagementSystem.Models
+{
+    public class LibraryCard
+    {
+        public string CardNumber { get; }
+        public Member Owner { get; set; }
+        public DateTime IssueDate { get; private set; }
+
+        public LibraryCard(string cardNumber, Member owner)
+        {
+            CardNumber = cardNumber;
+            Owner = owner;
+            IssueDate = DateTime.Now;
+        }
+
+        public void RenewCard()
+        {
+            IssueDate = DateTime.Now;
+        }
+    }
+}
