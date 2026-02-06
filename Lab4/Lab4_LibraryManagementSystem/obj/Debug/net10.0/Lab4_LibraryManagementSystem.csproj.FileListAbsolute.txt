@@ -1,0 +1,15 @@
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\bin\Debug\net10.0\Lab4_LibraryManagementSystem.exe
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\bin\Debug\net10.0\Lab4_LibraryManagementSystem.deps.json
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\bin\Debug\net10.0\Lab4_LibraryManagementSystem.runtimeconfig.json
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\bin\Debug\net10.0\Lab4_LibraryManagementSystem.dll
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\bin\Debug\net10.0\Lab4_LibraryManagementSystem.pdb
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\obj\Debug\net10.0\Lab4_LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\obj\Debug\net10.0\Lab4_LibraryManagementSystem.AssemblyInfoInputs.cache
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\obj\Debug\net10.0\Lab4_LibraryManagementSystem.AssemblyInfo.cs
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\obj\Debug\net10.0\Lab4_LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\obj\Debug\net10.0\Lab4_LibraryManagementSystem.sourcelink.json
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\obj\Debug\net10.0\Lab4_LibraryManagementSystem.dll
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\obj\Debug\net10.0\refint\Lab4_LibraryManagementSystem.dll
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\obj\Debug\net10.0\Lab4_LibraryManagementSystem.pdb
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\obj\Debug\net10.0\Lab4_LibraryManagementSystem.genruntimeconfig.cache
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab4_LibraryManagementSystem\obj\Debug\net10.0\ref\Lab4_LibraryManagementSystem.dll
