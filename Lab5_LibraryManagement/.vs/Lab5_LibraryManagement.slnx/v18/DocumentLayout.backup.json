@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\patterns\\observer\\librarynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:patterns\\observer\\librarynotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\patterns\\observer\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:patterns\\observer\\isubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\patterns\\factory\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:patterns\\factory\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\models\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:models\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:models\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\models\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:models\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\patterns\\strategy\\ifeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:patterns\\strategy\\ifeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\patterns\\strategy\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:patterns\\strategy\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\patterns\\strategy\\newspaperfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:patterns\\strategy\\newspaperfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\patterns\\strategy\\magazinefeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:patterns\\strategy\\magazinefeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\patterns\\strategy\\bookfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:patterns\\strategy\\bookfeestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\patterns\\observer\\usersubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:patterns\\observer\\usersubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\patterns\\singleton\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:patterns\\singleton\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|d:\\github\\cse422-professorcoding\\lab4\\lab5_librarymanagement\\lab5_librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{696F0169-64D2-4B94-8B6D-A74BF562DAB6}|Lab5_LibraryManagement.csproj|solutionrelative:lab5_librarymanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Models\\IDocument.cs",
+              "RelativeDocumentMoniker": "Models\\IDocument.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Models\\IDocument.cs",
+              "RelativeToolTip": "Models\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:51:50.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Models\\Magazine.cs",
+              "RelativeDocumentMoniker": "Models\\Magazine.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Models\\Magazine.cs",
+              "RelativeToolTip": "Models\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:52:20.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Newspaper.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Models\\Newspaper.cs",
+              "RelativeDocumentMoniker": "Models\\Newspaper.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Models\\Newspaper.cs",
+              "RelativeToolTip": "Models\\Newspaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:52:30.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:52:41.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Factory\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "Patterns\\Factory\\DocumentFactory.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Factory\\DocumentFactory.cs",
+              "RelativeToolTip": "Patterns\\Factory\\DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:53:43.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISubscriber.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Observer\\ISubscriber.cs",
+              "RelativeDocumentMoniker": "Patterns\\Observer\\ISubscriber.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Observer\\ISubscriber.cs",
+              "RelativeToolTip": "Patterns\\Observer\\ISubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:54:10.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryNotifier.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Observer\\LibraryNotifier.cs",
+              "RelativeDocumentMoniker": "Patterns\\Observer\\LibraryNotifier.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Observer\\LibraryNotifier.cs",
+              "RelativeToolTip": "Patterns\\Observer\\LibraryNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:54:20.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:47:20.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:51:58.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Strategy\\Loan.cs",
+              "RelativeDocumentMoniker": "Patterns\\Strategy\\Loan.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Strategy\\Loan.cs",
+              "RelativeToolTip": "Patterns\\Strategy\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:55:29.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewspaperFeeStrategy.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Strategy\\NewspaperFeeStrategy.cs",
+              "RelativeDocumentMoniker": "Patterns\\Strategy\\NewspaperFeeStrategy.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Strategy\\NewspaperFeeStrategy.cs",
+              "RelativeToolTip": "Patterns\\Strategy\\NewspaperFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:55:19.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MagazineFeeStrategy.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Strategy\\MagazineFeeStrategy.cs",
+              "RelativeDocumentMoniker": "Patterns\\Strategy\\MagazineFeeStrategy.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Strategy\\MagazineFeeStrategy.cs",
+              "RelativeToolTip": "Patterns\\Strategy\\MagazineFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:55:11.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookFeeStrategy.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Strategy\\BookFeeStrategy.cs",
+              "RelativeDocumentMoniker": "Patterns\\Strategy\\BookFeeStrategy.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Strategy\\BookFeeStrategy.cs",
+              "RelativeToolTip": "Patterns\\Strategy\\BookFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:55:02.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFeeStrategy.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Strategy\\IFeeStrategy.cs",
+              "RelativeDocumentMoniker": "Patterns\\Strategy\\IFeeStrategy.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Strategy\\IFeeStrategy.cs",
+              "RelativeToolTip": "Patterns\\Strategy\\IFeeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:54:50.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserSubscriber.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Observer\\UserSubscriber.cs",
+              "RelativeDocumentMoniker": "Patterns\\Observer\\UserSubscriber.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Observer\\UserSubscriber.cs",
+              "RelativeToolTip": "Patterns\\Observer\\UserSubscriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:54:28.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Singleton\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Patterns\\Singleton\\DatabaseConnection.cs",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Patterns\\Singleton\\DatabaseConnection.cs",
+              "RelativeToolTip": "Patterns\\Singleton\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T05:53:25.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lab5_LibraryManagement",
+              "DocumentMoniker": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Lab5_LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "Lab5_LibraryManagement.csproj",
+              "ToolTip": "D:\\Github\\CSE422-ProfessorCoding\\Lab4\\Lab5_LibraryManagement\\Lab5_LibraryManagement.csproj",
+              "RelativeToolTip": "Lab5_LibraryManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-07T05:52:49.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

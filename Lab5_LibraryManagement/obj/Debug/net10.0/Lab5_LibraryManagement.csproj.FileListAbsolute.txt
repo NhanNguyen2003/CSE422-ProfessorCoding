@@ -1,0 +1,15 @@
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\bin\Debug\net10.0\Lab5_LibraryManagement.exe
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\bin\Debug\net10.0\Lab5_LibraryManagement.deps.json
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\bin\Debug\net10.0\Lab5_LibraryManagement.runtimeconfig.json
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\bin\Debug\net10.0\Lab5_LibraryManagement.dll
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\bin\Debug\net10.0\Lab5_LibraryManagement.pdb
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\obj\Debug\net10.0\Lab5_LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\obj\Debug\net10.0\Lab5_LibraryManagement.AssemblyInfoInputs.cache
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\obj\Debug\net10.0\Lab5_LibraryManagement.AssemblyInfo.cs
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\obj\Debug\net10.0\Lab5_LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\obj\Debug\net10.0\Lab5_LibraryManagement.sourcelink.json
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\obj\Debug\net10.0\Lab5_LibraryManagement.dll
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\obj\Debug\net10.0\refint\Lab5_LibraryManagement.dll
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\obj\Debug\net10.0\Lab5_LibraryManagement.pdb
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\obj\Debug\net10.0\Lab5_LibraryManagement.genruntimeconfig.cache
+D:\Github\CSE422-ProfessorCoding\Lab4\Lab5_LibraryManagement\obj\Debug\net10.0\ref\Lab5_LibraryManagement.dll
